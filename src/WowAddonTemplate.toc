@@ -1,0 +1,12 @@
+## Interface: {{INTERFACE}}
+## Version: {{VERSION}}
+## X-License: All rights reserved.
+## Notes: This AddOn does nothing
+## Author: Author
+## SavedVariables: WowAddonTemplateDB
+
+# External libs
+embeds.xml
+
+# Core 
+WowAddonTemplate.lua

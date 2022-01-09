@@ -1,0 +1,11 @@
+<Ui >	
+	<Script file="WowAddonTemplate.lua"/>
+	<Frame parent="UIParent">
+		<Frames>
+			<Button name="WowAddonTemplateButton" frameStrata="FULLSCREEN" toplevel="true">
+				<Scripts>
+				</Scripts>
+			</Button>
+		</Frames>
+	</Frame>			
+</Ui>
